@@ -1,2 +1,2 @@
 # Innova
-Innovation
+Explore data sciense with engineering background
